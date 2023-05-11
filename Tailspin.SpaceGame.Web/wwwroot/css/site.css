@@ -80,7 +80,7 @@ section {
   margin-top: 0; }
   .leaderboard .leader-nav .nav-buttons h4 {
     background: #333;
-    color: white;
+    color: green;
     padding: 1rem;
     margin: 0;
     border-top-left-radius: 10px;
@@ -118,7 +118,7 @@ section {
   width: 2rem;
   height: 2rem;
   overflow: hidden;
-  background: gray;
+  background: blue;
   border-radius: 99px;
   display: inline-block;
   margin-right: .5rem; }
