@@ -107,7 +107,7 @@ section {
     color: var(--link); }
   .leaderboard .leader-scores .pagination > .active > a {
     background-color: var(--link);
-    color: white; }
+    color: orange; }
 
 .leaderboard .high-score {
   border: 1px solid #999;
