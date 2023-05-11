@@ -1,6 +1,6 @@
 ﻿// Page
 body {
-    color: black;
+    color: purple;
     --link: #064EC0;
 }
 
@@ -35,10 +35,10 @@ section {
     }
 
     p {
-        color: white;
+        color: red;
         font-weight: 600;
         font-size: 1.6rem;
-        text-shadow: 0 0 2px black;
+        text-shadow: 0 0 2px white;
         margin-top: 2rem;
     }
 }
@@ -148,7 +148,7 @@ section {
 
             > .active > a {
                 background-color: var(--link);
-                color: white;
+                color: rose;
             }
         }
     }
