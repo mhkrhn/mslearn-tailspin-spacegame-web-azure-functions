@@ -1,5 +1,5 @@
 body {
-  color: black;
+  color: brown;
   --link: #064EC0; }
 
 a {
@@ -26,7 +26,7 @@ section {
     width: 20rem;
     margin-top: 2rem; }
   .intro p {
-    color: white;
+    color: blue;
     font-weight: 600;
     font-size: 1.6rem;
     text-shadow: 0 0 2px black;
@@ -42,7 +42,7 @@ section {
 
 .download .btn {
   margin-top: 5rem;
-  border: 3px solid black;
+  border: 3px solid red;
   font-weight: bold; }
 
 .screens {
@@ -90,7 +90,7 @@ section {
 
 .leaderboard .leader-scores .high-score:nth-child(1) {
   background: #333;
-  color: white;
+  color: yellow;
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
   padding: 1rem 0;
